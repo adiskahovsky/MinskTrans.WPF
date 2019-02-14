@@ -1,0 +1,15 @@
+C:\Users\st\source\repos\MinskTransLib.DAL\DBTest\bin\Debug\DBTest.exe.config
+C:\Users\st\source\repos\MinskTransLib.DAL\DBTest\bin\Debug\DBTest.exe
+C:\Users\st\source\repos\MinskTransLib.DAL\DBTest\bin\Debug\DBTest.pdb
+C:\Users\st\source\repos\MinskTransLib.DAL\DBTest\bin\Debug\EntityFramework.dll
+C:\Users\st\source\repos\MinskTransLib.DAL\DBTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\st\source\repos\MinskTransLib.DAL\DBTest\bin\Debug\MinskTransLib.DAL.dll
+C:\Users\st\source\repos\MinskTransLib.DAL\DBTest\bin\Debug\MinskTransLib.DAL.pdb
+C:\Users\st\source\repos\MinskTransLib.DAL\DBTest\bin\Debug\MinskTransLib.DAL.dll.config
+C:\Users\st\source\repos\MinskTransLib.DAL\DBTest\bin\Debug\EntityFramework.xml
+C:\Users\st\source\repos\MinskTransLib.DAL\DBTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\st\source\repos\MinskTransLib.DAL\DBTest\obj\Debug\DBTest.csprojAssemblyReference.cache
+C:\Users\st\source\repos\MinskTransLib.DAL\DBTest\obj\Debug\DBTest.csproj.CoreCompileInputs.cache
+C:\Users\st\source\repos\MinskTransLib.DAL\DBTest\obj\Debug\DBTest.csproj.CopyComplete
+C:\Users\st\source\repos\MinskTransLib.DAL\DBTest\obj\Debug\DBTest.exe
+C:\Users\st\source\repos\MinskTransLib.DAL\DBTest\obj\Debug\DBTest.pdb
